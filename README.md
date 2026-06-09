@@ -30,6 +30,8 @@ Apostila do Professor
 - GitHub
 - WordWall
 - Microsoft Word
+- Youtube
+- PDF
 
 ## Equipe
 - Alicia Andrea Firmino Carlos
